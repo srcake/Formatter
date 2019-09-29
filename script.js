@@ -1,4 +1,4 @@
-//On Submit, get values and store them
+// On Submit, get values and store them
 
 document.getElementById("submit").addEventListener("click", textSave)
 
