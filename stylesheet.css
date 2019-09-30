@@ -1,7 +1,19 @@
-.main {
+.header {
+    text-align: center;
+}
+
+#primary {
     margin: auto;
-    width: 20%;
-    margin-top: 5%;
+    width: 30%;
+    margin-top: 3%;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+#secondary {
+    margin: auto;
+    width: 30%;
+    margin-top: 2%;
     padding: 10px;
     border: 1px solid red;
 }
@@ -12,7 +24,16 @@
 }
 
 .fieldRow2 {
-    padding-left: 6em;
+    padding-left: 4em;
+}
+
+.fieldRow3 {
+    padding-left: 4em;
+}
+
+/* Need to update this to be in line with column 3. May need to separate into 3 divs? */
+.fieldRow3x2 {
+    padding-left: 4em;
 }
 
 #btnSection {
