@@ -1,0 +1,12 @@
+Changes to consider:
+
+1) Add validation for ZIP
+2) Add option to default state to TX
+3) Add option which refreshed the page WITHOUT clearing fields?
+4) Default path2 value based on path1 value
+5) Fix column alignment
+999) Make the page not look like dog shit
+
+real shit
+
+1) Copy to clip board option
